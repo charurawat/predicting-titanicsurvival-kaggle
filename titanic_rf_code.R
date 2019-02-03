@@ -1,6 +1,4 @@
-## Class  : SYS 6018 
-## Name   : Charu Rawat
-## ID     : cr4zy
+
 #--------------------------------------------------------------------------------------------------------------------------------------
 
 current_dir = dirname(rstudioapi::getSourceEditorContext()$path) #path of current script
