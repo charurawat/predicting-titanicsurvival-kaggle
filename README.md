@@ -1,5 +1,6 @@
-# sys6018-competition-titanic
 
+## Building a Random Forest model on the classic Titanic Data availabe on Kaggle 
+(SYS 6018)
 This repository contains the folowing files -
 
 1. test.csv  - Contains data on which model is test. File sourced directly from Kaggle.
