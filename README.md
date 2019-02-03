@@ -1,11 +1,12 @@
 
 ## Building a Random Forest model on the classic Titanic Data availabe on Kaggle 
 (SYS 6018)
+
 This repository contains the folowing files -
 
 1. test.csv  - Contains data on which model is test. File sourced directly from Kaggle.
 2. train.csv - Contains data on which model is trained. File sourced directly from Kaggle.
-3. titanic_rf_code.R - Contains the main code ie. solution
+3. titanic_rf_code.R - Contains the main code ie. solution in R
 4. titanic_solution.csv - Contains predicted results for corresponding IDs in the test.csv
 
 The goal is here to predict which passengers survived or died on the Titanic using attributes such as Age,Sex,Ticket Fare,etc.
